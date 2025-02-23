@@ -48,8 +48,10 @@ python i2t_webcam.py
 - The extracted text from images is printed to the terminal.
 - For i2t_webcam.py, text is continuously extracted and displayed in real time.
 
-##### Sample Input: ![](images/input_image.png)
-##### Sample Output: ![](images/output_image.png)
+##### Sample Input: 
+![](images/input_image.png)
+##### Sample Output: 
+![](images/output_image.png)
 
 ---
 ###### Made with ❤️ by [Sanfinity](https://github.com/Sanfinity/)
